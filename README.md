@@ -1,6 +1,6 @@
 # Blue Prism Populate Word Document Example
 
-A Blue Prism Release Package containing an example Visual Business Object (VBO) and Process to demonstrate populate a Word document by replacing placeholder values in its Xml structure.
+A Blue Prism Release Package containing an example Visual Business Object (VBO) and Process to demonstrate populate a Word document in docx format by replacing placeholder values in its xml structure.
 
 The Release Package was created with Blue Prism 6.4.
 
