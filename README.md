@@ -8,7 +8,7 @@ The Release Package was created with Blue Prism 6.4.
 
 In order to populate a Word document, you will need a document (.docx) to use as a template, with placeholder values included. An example Word document with placeholder values matching the example Blue Prism process is available here: 
 
-[Example Word Document](DocumentTemplate.docx).
+[Example Word Document](DocumentTemplate.docx)
 
 ### Installing
 
