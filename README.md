@@ -10,11 +10,11 @@ In order to populate a Word document, you will need a document (.docx) to use as
 
 ### Installing
 
-Download the [Example Blue Prism Package](ShmoopySoftBluePrismPopulateWordDocumentExample.bprelease)
+Download the [Example Blue Prism Package](ShmoopySoftPopulateWordDocumentExample.bprelease)
 
 1. Launch Blue Prism
 2. Click File -> Import
-3. Select the 'ShmoopySoftBluePrismPopulateWordDocumentExample.bprelease' Release Package
+3. Select the 'ShmoopySoftPopulateWordDocumentExample.bprelease' Release Package
 4. Follow the Blue Prism import wizard to install the package
 
 ### Running
